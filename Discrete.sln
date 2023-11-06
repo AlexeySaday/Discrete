@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prims", "Prims\Prims.csproj", "{A6FA11BA-97BE-40D8-852A-6C4153A3E34B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetTheory", "SetTheory\SetTheory.csproj", "{7F528CFC-BA85-48AE-8199-E4C779AFF26C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{A6FA11BA-97BE-40D8-852A-6C4153A3E34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6FA11BA-97BE-40D8-852A-6C4153A3E34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6FA11BA-97BE-40D8-852A-6C4153A3E34B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F528CFC-BA85-48AE-8199-E4C779AFF26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F528CFC-BA85-48AE-8199-E4C779AFF26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F528CFC-BA85-48AE-8199-E4C779AFF26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F528CFC-BA85-48AE-8199-E4C779AFF26C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
